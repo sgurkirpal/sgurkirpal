@@ -1,5 +1,5 @@
 <meta name="title" content="Gurkirpal Singh">
-<meta name="description" content="Hi, I'm Gurkirpal Singh. 🎓 I am currently pursuing my Bachelor's in Computer Science and Engineering. 🌱 I’m currently diving into Computer Vision. 📫 Reach me at sgurkirpal88@gmail.com">
+<meta name="description" content="Hi, I'm Gurkirpal Singh. 🎓 I am currently pursuing my Bachelor's in Computer Science and Engineering at IIT Ropar. 🌱 I’m currently diving into Computer Vision. 📫 Reach me at sgurkirpal88@gmail.com">
 
 <h1 align="center">Hi, I'm Gurkirpal Singh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgurkirpal&label=Profile%20views&color=1c87ca&style=flat" alt="sgurkirpal" /> </p>
